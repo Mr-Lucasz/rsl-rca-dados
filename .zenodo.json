@@ -1,0 +1,13 @@
+{
+  "title": "Dados da Revisão Sistemática da Literatura sobre Análise de Causa Raiz (RCA) na Qualidade de Software",
+  "upload_type": "dataset",
+  "description": "Conjunto de dados de apoio ao preprint 'Análise de Causa Raiz na Qualidade de Software: uma Revisão Sistemática da Literatura'. Inclui exportações das buscas (ACM Digital Library, IEEE Xplore, Scopus e SpringerLink; 542 registros, 2010–2025), registros de triagem PRISMA (título/resumo e texto completo, com motivos de exclusão) e a planilha de extração de dados dos 51 estudos primários incluídos (RQ1–RQ6). Os PDFs dos estudos primários não são redistribuídos.",
+  "creators": [
+    {"name": "Rodrigues, Lucas da Cunha", "orcid": "0009-0006-5026-5412"}
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "por",
+  "keywords": ["Root Cause Analysis", "Análise de Causa Raiz", "Software Quality", "Qualidade de Software", "Systematic Literature Review", "Revisão Sistemática da Literatura", "PRISMA"],
+  "version": "1.0"
+}
