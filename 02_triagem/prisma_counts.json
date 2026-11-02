@@ -1,0 +1,19 @@
+﻿{
+    "identified_total":  542,
+    "identified_by_source":  {
+                                 "acm_2010_2025":  401,
+                                 "springer_2010_2025":  114,
+                                 "scopus":  14,
+                                 "ieee_2010_2025":  13
+                             },
+    "duplicates_removed":  13,
+    "title_abstract_candidates":  529,
+    "full_text_candidates":  77,
+    "included_final":  52,
+    "title_abstract_included":  49,
+    "title_abstract_maybe":  28,
+    "title_abstract_excluded":  452,
+    "full_text_included":  52,
+    "full_text_excluded":  25,
+    "full_text_unavailable":  7
+}
